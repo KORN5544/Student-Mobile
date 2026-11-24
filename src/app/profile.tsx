@@ -7,6 +7,9 @@ export default function profile() {
       <Text style={styles.title}>นายวัชรากร คำชมภู</Text>
       <Text style={styles.subtitle}>รหัสประจำตัว 68319010010</Text>
       <Text style={styles.subtitle}>สาขาวิชา เทคโนโลยีสารสนเทศ</Text>
+      <Text style={styles.subtitle}>ความสามารถพิเศษ</Text>
+      <Text style={styles.subtitle}>1.ทำเตี๋ยวกินเองได้</Text>
+      <Text style={styles.subtitle}>2.ทำเตี๋ยวกินเองได้</Text>
     </View>
   )
 }
